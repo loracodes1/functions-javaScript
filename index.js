@@ -13,3 +13,6 @@ happyBirthday() //execute it the second time and as many times as you want
 happyBirthday("Loracodes", 37) 
 happyBirthday("Spongebob",20)
 //the order in which you write the parameter matters happyBirthday(userName,age) isnt the same as happyBirthday(age,userName)
+
+
+//ADDITION FUNCTION
