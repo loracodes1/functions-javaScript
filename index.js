@@ -54,7 +54,7 @@ console.log(isEvenNumber(21)) //will return false
 
 //checking the validity of an email
 function isEmailValid(email){
-    if (email.include('@')){
+    if (email.includes('@')){
         return true
     }
     else {
@@ -62,3 +62,4 @@ function isEmailValid(email){
     }
 }
 console.log(isEmailValid('bahatiflo@gmail.com'))
+console.log(isEmailValid('bahatiflogmail.com'))
