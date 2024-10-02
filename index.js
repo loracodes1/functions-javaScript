@@ -16,6 +16,9 @@ happyBirthday("Spongebob",20)
 
 
 //ADDITION FUNCTION
-function addition(x,y){
+function add(x,y){
     let result=x+y
+    return result;
 }
+let answer =add(2, 3)
+console.log(answer)
