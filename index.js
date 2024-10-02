@@ -50,3 +50,15 @@ function isEvenNumber(num){
     return num %2 ===0 ? true: false
 }
 console.log(isEvenNumber(21)) //will return false
+
+
+//checking the validity of an email
+function isEmailValid(email){
+    if (email.include('@')){
+        return true
+    }
+    else {
+        return false
+    }
+}
+console.log(isEmailValid('bahatiflo@gmail.com'))
