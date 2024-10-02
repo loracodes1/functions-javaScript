@@ -10,4 +10,5 @@ function happyBirthday(userName , age){
 }
 happyBirthday()//to execute the code within the function, we have to call the function by its name
 happyBirthday() //execute it the second time and as many times as you want
-happyBirthday("Loracodes", 37) //
+happyBirthday("Loracodes", 37) 
+//the order in which you write the parameter matters happyBirthday(userName,age) isnt the same as happyBirthday(age,userName)
