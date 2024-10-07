@@ -71,4 +71,9 @@ function sum(a,b){
     return a+b
 }
 
-//2.
+//2.NAMED FUNCTION WITH ONE PARAMETER
+function isPositive(number){
+    return number>=0
+}
+
+//3. NAMED FUNCTION WITH NO PARAMETERS
