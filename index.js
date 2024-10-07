@@ -63,3 +63,12 @@ function isEmailValid(email){
 }
 console.log(isEmailValid('bahatiflo@gmail.com'))
 console.log(isEmailValid('bahatiflogmail.com'))
+
+
+//TYPES OF FUNCTIONS
+//1.NAMED FUNCTION WITH MULTIPLE PARAMETERS
+function sum(a,b){
+    return a+b
+}
+
+//2.
