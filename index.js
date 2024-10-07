@@ -77,3 +77,6 @@ function isPositive(number){
 }
 
 //3. NAMED FUNCTION WITH NO PARAMETERS
+function randomNumber(){
+    return Math.random
+}
