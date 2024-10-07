@@ -80,3 +80,8 @@ function isPositive(number){
 function randomNumber(){
     return Math.random
 }
+
+//4. ANONYMOUS FUNCTION
+document.addEventListener('Click' , function(){
+console.log('click')
+})
